@@ -1,0 +1,12 @@
+program test1;
+var foo: int; bar, lol: float;
+{
+	if(foo <> 45)
+	{
+		print("foo");
+	}
+	else
+	{
+		print("lol");
+	};
+}

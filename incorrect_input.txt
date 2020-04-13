@@ -1,0 +1,9 @@
+program test2;
+var foo: int; bar, lol:float; 
+{
+	foo = 23;
+	if(foo > 45)
+	{
+		print("foo"):
+	}
+}
